@@ -1,3 +1,4 @@
+package com.gittest;
 /**
  * Created by zhangbin on 2016/4/7.
  */
